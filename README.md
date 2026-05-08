@@ -5,7 +5,7 @@
 
 ## i use arch btw 👋
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 ### Panzerkommando
 <div align="center">
   <img width="100%" alt="1fdc6a55-343e-4a85-b066-ccedfdd04230" src="https://github.com/user-attachments/assets/89f963b1-13fa-4f18-b953-b7cb6d1bee12" />
