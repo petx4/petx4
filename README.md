@@ -9,7 +9,7 @@
   <img src="https://streak-stats.demolab.com?user=petx4&locale=en&mode=daily&theme=highcontrast&hide_border=true&border_radius=9" height="150" />
 </div>
 
-⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
+⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BBBBBB&width=435&lines=Ziel+zerst%C3%B6rt%E2%98%A0;lade+nach...;Panzergranate+geladen!;kom+ziel+zerstort%E2%98%A0" alt="Typing SVG" /></a>
 <div align="center">
   <img width="100%" alt="1fdc6a55-343e-4a85-b066-ccedfdd04230" src="https://github.com/user-attachments/assets/89f963b1-13fa-4f18-b953-b7cb6d1bee12" />
